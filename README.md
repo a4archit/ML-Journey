@@ -1,2 +1,6 @@
 # ML-Journey
-In this repo I share my daily updates of my Machine Learning 
+- In this repo I share my daily updates of my Machine Learning 
+
+- Course details:
+	- 132 Lectures on ML `Machine Learning` and related topics.
+ 	- Complete course available on **YouTube**
