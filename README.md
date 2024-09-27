@@ -17,4 +17,4 @@
 	- Random Subspaces
 	- OOB Score
 	- Grid Search CV
-	- Random Search CV
+	- Random Search CV. 
