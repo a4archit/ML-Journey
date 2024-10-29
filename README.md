@@ -5,5 +5,7 @@
 - Course details:
 	- 133 Lectures on ML `Machine Learning` and related topics.
  	- Complete course available on **YouTube**
-
-
+  - 
+<br><br>
+**For Machine Learning I`ve one more repository** ([Access Now](https://github.com/a4archit/Hands-on-Machine-Learning))
+> Hands-on-Machine-Learning
