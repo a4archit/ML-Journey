@@ -3,7 +3,7 @@
 
 
 - Course details:
-	- 133 Lectures on ML `Machine Learning` and related topics.
+	- 132 Lectures on ML `Machine Learning` and related topics.
  	- Complete course available on **YouTube**(campusx)
 
 <br><br>
